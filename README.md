@@ -1,4 +1,4 @@
-### Hi there,👋 This is Harish Kumar
+### Hi there 👋, This is Harish Kumar
 
 - 🔭 I’m currently working on DomainsHook
 - 🌱 I’m currently learning Go lang
